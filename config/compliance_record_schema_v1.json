@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "record_id": "nist_sp_800_171_r3|03.08.05|a",
+  "document": {
+    "document_id": "nist_sp_800_171_r3",
+    "title": "Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations",
+    "document_type": "NIST SP",
+    "document_number": "800-171",
+    "revision": "r3",
+    "authority": "NIST",
+    "publication_date": "2024-05",
+    "source_sha256": "3e4631df8b5d61f40a6e542b52779ef30ddbbfff31e09214fa94ad6e6f5e6d08"
+  },
+  "record_type": "requirement",
+  "normative": true,
+  "family": {
+    "family_id": "03.08",
+    "family_name": "Media Protection"
+  },
+  "requirement": {
+    "requirement_id": "03.08.05",
+    "title": "Media Transport",
+    "clause": "a",
+    "text": "Protect and control system media that contain CUI during transport outside of controlled areas."
+  },
+  "references": {
+    "source_controls": [
+      "MP-03"
+    ],
+    "supporting_publications": []
+  },
+  "source": {
+    "source_file": "/home/vigilantceo/documents/NIST.SP.800-171r3.pdf",
+    "text_file": "/home/vigilantceo/vigilant-automation/data/source_text/NIST.SP.800-171r3.txt",
+    "line_start": 2403,
+    "line_end": 2404,
+    "pdf_page": null
+  }
+}

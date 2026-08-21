@@ -1,0 +1,64 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+logs/
+
+# Backups
+backups/
+
+# Qdrant persistent storage
+qdrant_storage/
+qdrant-data/
+storage/
+
+# Ollama/model data
+.ollama/
+models/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Credentials / keys / certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated/local project data
+data/
+outputs/
+
+# Historical development copies
+*.bak
+*_backup.py
+*.pre_*
+*.before-*
