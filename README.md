@@ -6,9 +6,9 @@ Vigilant AI demonstrates the integration of local language models, vector databa
 
 ## Overview
 
-The platform ingests reference material, converts content into searchable vector representations, retrieves relevant source material using natural-language queries, and produces structured responses through a local AI processing layer.
+Vigilant AI is designed as more than a conversational chatbot. It combines local AI inference with controlled knowledge retrieval, source validation, APIs, and workflow automation. Instead of relying only on a model’s internal knowledge, the platform retrieves current information from defined data sources and returns structured, traceable outputs. 
 
-The project demonstrates practical engineering across AI infrastructure, backend development, semantic search, automation, and Linux-based service deployment.
+This architecture allows knowledge to be updated independently while preserving greater control over data, logic, and automation.
 
 ## Architecture
 
